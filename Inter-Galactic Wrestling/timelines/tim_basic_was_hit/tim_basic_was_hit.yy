@@ -1,0 +1,15 @@
+{
+  "$GMTimeline":"",
+  "%Name":"tim_basic_was_hit",
+  "momentList":[
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":0,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":15,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":15,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+  ],
+  "name":"tim_basic_was_hit",
+  "parent":{
+    "name":"Neil",
+    "path":"folders/Objects/Enemies/Neil.yy",
+  },
+  "resourceType":"GMTimeline",
+  "resourceVersion":"2.0",
+}

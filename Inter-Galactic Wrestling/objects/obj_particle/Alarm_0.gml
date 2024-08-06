@@ -1,0 +1,2 @@
+/// @description Die
+ded = true;

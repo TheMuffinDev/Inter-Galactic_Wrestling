@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_start_fight",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.516757,
+  "name":"sou_start_fight",
+  "parent":{
+    "name":"Game Control",
+    "path":"folders/Sounds/Game Control.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_start_fight.wav",
+  "type":0,
+  "volume":0.23,
+}

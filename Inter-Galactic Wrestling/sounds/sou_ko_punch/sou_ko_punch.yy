@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_ko_punch",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.46381,
+  "name":"sou_ko_punch",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Sounds/Player.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_ko_punch.wav",
+  "type":0,
+  "volume":1.0,
+}

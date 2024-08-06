@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"squish",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"squish",
+  "parent":{
+    "name":"Display",
+    "path":"folders/Scripts/Display.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

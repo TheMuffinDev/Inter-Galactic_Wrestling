@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"explode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"explode",
+  "parent":{
+    "name":"Particles",
+    "path":"folders/Scripts/Particles.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

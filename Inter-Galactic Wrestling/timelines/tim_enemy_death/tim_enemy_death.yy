@@ -1,0 +1,16 @@
+{
+  "$GMTimeline":"",
+  "%Name":"tim_enemy_death",
+  "momentList":[
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":0,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":90,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":90,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":240,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":240,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+  ],
+  "name":"tim_enemy_death",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Timelines/Enemies.yy",
+  },
+  "resourceType":"GMTimeline",
+  "resourceVersion":"2.0",
+}

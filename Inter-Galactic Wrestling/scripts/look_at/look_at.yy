@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"look_at",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"look_at",
+  "parent":{
+    "name":"Display",
+    "path":"folders/Scripts/Display.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"outline_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"outline_text",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Scripts/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

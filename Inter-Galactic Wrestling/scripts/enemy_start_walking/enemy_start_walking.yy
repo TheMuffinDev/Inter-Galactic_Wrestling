@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"enemy_start_walking",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enemy_start_walking",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Scripts/Enemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

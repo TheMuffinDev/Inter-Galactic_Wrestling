@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"enemy_jump",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enemy_jump",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Scripts/Enemies.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

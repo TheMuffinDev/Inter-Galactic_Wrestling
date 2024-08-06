@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"outline_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"outline_sprite",
+  "parent":{
+    "name":"Display",
+    "path":"folders/Scripts/Display.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

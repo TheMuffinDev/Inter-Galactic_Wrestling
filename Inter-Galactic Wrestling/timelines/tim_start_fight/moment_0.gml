@@ -11,5 +11,3 @@ with(obj_camera)
 {
 	zoom_to = 1;
 }
-
-timeline_speed = 0;

@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":494,
   "bbox_left":275,
-  "bbox_right":952,
+  "bbox_right":1032,
   "bbox_top":270,
   "collisionKind":4,
   "collisionTolerance":0,
@@ -15,6 +15,7 @@
     {"$GMSpriteFrame":"","%Name":"6c9558a6-f6b3-45a5-b7db-9fc1ce677966","name":"6c9558a6-f6b3-45a5-b7db-9fc1ce677966","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"50964b13-d257-4f16-82aa-867fa5a4fa6e","name":"50964b13-d257-4f16-82aa-867fa5a4fa6e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"c12af2f9-15c6-4d20-9c2b-3da0ffb05739","name":"c12af2f9-15c6-4d20-9c2b-3da0ffb05739","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"eaa32eb1-d7b5-45f3-866b-1a25fedfc66b","name":"eaa32eb1-d7b5-45f3-866b-1a25fedfc66b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -51,7 +52,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -79,6 +80,9 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c12af2f9-15c6-4d20-9c2b-3da0ffb05739","path":"sprites/spr_player_punch_hitbox/spr_player_punch_hitbox.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"cb291ee4-a41e-4be8-8178-ff855a996c3c","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eaa32eb1-d7b5-45f3-866b-1a25fedfc66b","path":"sprites/spr_player_punch_hitbox/spr_player_punch_hitbox.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"17158277-ac55-4278-97d9-792ccf101977","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

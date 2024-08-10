@@ -8,7 +8,7 @@ if(instance_place(x,y,obj_player_attack_parent)) && (hit_cooldown <= 0)
 	hit_cooldown = 5;
 	turn_speed = 5;
 	turning = true;
-	turn_dir = obj_player.facing;
+	turn_dir = obj_player.facing*-1;
 	
 	//Hit Effects and SFX
 	shake_screen(40,8);
@@ -20,9 +20,6 @@ if(instance_place(x,y,obj_player_attack_parent)) && (hit_cooldown <= 0)
 		direction = point_direction(x,y,obj_player.x,obj_player.y) + 180 + random_range(40,-10);
 		text = string(_damage_to_take);
 	}
-	
-	//Set target
-	global.enemy_target = id;
 }
 
 //Cooldowns

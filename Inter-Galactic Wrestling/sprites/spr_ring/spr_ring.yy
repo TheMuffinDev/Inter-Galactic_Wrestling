@@ -19,14 +19,15 @@
   "height":1356,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"dd8996ff-4ac3-49c2-8a0e-98604146e960","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"dd8996ff-4ac3-49c2-8a0e-98604146e960","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"269be3bc-7edd-4a7f-a42f-280c567f02a3","blendMode":0,"displayName":"default","isLocked":false,"name":"269be3bc-7edd-4a7f-a42f-280c567f02a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_ring",
   "nineSlice":null,
   "origin":6,
   "parent":{
-    "name":"Ring",
-    "path":"folders/Sprites/Terrain/Ring.yy",
+    "name":"Ground",
+    "path":"folders/Sprites/Terrain/Ground.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

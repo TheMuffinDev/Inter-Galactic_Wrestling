@@ -37,6 +37,7 @@ knockback_dir = 1;
 
 hit_cooldown = 0;
 flashing_white = 0;
+global.player_hit_counter = 0;
 
 freeze_x = x;
 

@@ -1,5 +1,5 @@
 //Getting Damaged
-if(instance_place(x,y,obj_player_attack_parent)) && (hit_cooldown <= 0) && (!blocking)
+if(instance_place(x,y,obj_player_attack_parent)) && (hit_cooldown <= 0) && (!blocking) && (!iframes)
 {
 	var _damage_to_take = obj_player_attack_parent.damage;
 	
@@ -41,7 +41,7 @@ if(instance_place(x,y,obj_player_attack_parent)) && (hit_cooldown <= 0) && (!blo
 }
 
 //Blocking
-if(instance_place(x,y,obj_player_attack_parent)) && (blocking)
+if(instance_place(x,y,obj_player_attack_parent)) && (blocking) && (!iframes)
 {
 	//Damage Counter
 	hit_counter++;

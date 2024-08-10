@@ -27,3 +27,7 @@ with(obj_camera)
 	increase_time = false;
 	shake_screen(100,10);
 }
+
+//Crows Stuff
+with(obj_crowd_member)
+	alarm[0] = -1;

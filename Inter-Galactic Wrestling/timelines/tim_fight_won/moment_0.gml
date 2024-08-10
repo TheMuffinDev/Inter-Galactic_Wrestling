@@ -19,7 +19,7 @@ with(instance_create_depth(obj_player.x,y-400,depth-1,obj_damage_indicater))
 {
 	direction = 270;
 	speed = 30;
-	alarm[0] = 60;
+	alarm[0] = 100;
 	image_blend = make_color_hsv(0,175,255);
 	text = "K.O.!!!";
 	font = font_fancy;
@@ -28,4 +28,12 @@ with(instance_create_depth(obj_player.x,y-400,depth-1,obj_damage_indicater))
 	flash_speed = 5;
 	instantly_destroy = true;
 	alarm[1] = flash_speed;
+}
+
+
+//Crows Jump
+with(obj_crowd_member)
+{
+	alarm[1] = random_range(1,15);
+	keep_jumping = true;
 }

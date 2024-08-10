@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"outline_text",
   "parent":{
-    "name":"UI",
-    "path":"folders/Scripts/UI.yy",
+    "name":"Strings",
+    "path":"folders/Scripts/Strings.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

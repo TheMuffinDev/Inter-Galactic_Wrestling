@@ -317,6 +317,7 @@ if(instance_place(x,y,obj_enemy_punch_hitbox)) && (hit_cooldown <= 0) && (!ifram
 	knockback_dir = obj_enemy_punch_hitbox.knockback_dir;
 	facing = obj_enemy_punch_hitbox.knockback_dir;
 	successfully_blocked = false;
+	global.player_hit_counter++;
 	
 	//Hit Effects and SFX
 	shake_screen(40,8);

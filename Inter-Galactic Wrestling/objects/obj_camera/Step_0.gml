@@ -25,15 +25,15 @@ if(screenshake_decrease != 0)
 //Timing
 if(increase_time)
 {
-	timing.miliseconds += 100 / 60;
-	if(timing.miliseconds > 99)
+	global.timing.miliseconds += 100 / 60;
+	if(global.timing.miliseconds > 99)
 	{
-		timing.miliseconds = 0;
-		timing.seconds++;
-		if(timing.seconds > 59)
+		global.timing.miliseconds = 0;
+		global.timing.seconds++;
+		if(global.timing.seconds > 59)
 		{
-			timing.seconds = 0;
-			timing.minutes++;
+			global.timing.seconds = 0;
+			global.timing.minutes++;
 		}
 	}
 }

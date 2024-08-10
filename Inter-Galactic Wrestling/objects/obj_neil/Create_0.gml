@@ -19,8 +19,9 @@ blocking_sprite = spr_neil_block;
 
 //Stats
 hp = 150;
+max_hp = hp;
 health_index = 2;
-versus_index = 2;
+versus_index = 1;
 enemy_speed = 8;
 moving = false;
 enemy_name = "Niel";
